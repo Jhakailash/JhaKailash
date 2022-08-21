@@ -16,13 +16,15 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://effervescent-concha-189c29.netlify.app/](https://effervescent-concha-189c29.netlify.app/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/142CD5MEZVEavZx8NVKg8vf_XQLlPZ899/view?usp=sharing)
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://effervescent-concha-189c29.netlify.app/project)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
 - 📫 How to reach me **kailashjhaji7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/142CD5MEZVEavZx8NVKg8vf_XQLlPZ899/view?usp=sharing](https://drive.google.com/file/d/142CD5MEZVEavZx8NVKg8vf_XQLlPZ899/view?usp=sharing)
+
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
