@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/142CD5MEZVEavZx8NVKg8vf_XQLlPZ899/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://effervescent-concha-189c29.netlify.app/project)
+- 👨‍💻 All of my projects are available at Github and [Portfolio](https://effervescent-concha-189c29.netlify.app/project)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
