@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/142CD5MEZVEavZx8NVKg8vf_XQLlPZ899/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BsG9ZxBvAco-8TkAEnkHF2JtFLI7SNT_/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://jhakailash.github.io/)
 
