@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Backend**
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1BsG9ZxBvAco-8TkAEnkHF2JtFLI7SNT_/view?usp=sharing)
 
