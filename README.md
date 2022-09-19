@@ -36,11 +36,13 @@
 
 
 <h2 align="center">📱 Connect with me</h2>
+<br />
 
 <p align="center">
 <a href="https://twitter.com/@kailash66380956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kailash66380956" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kailash-jha-ba4325214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kailash-jha-ba4325214" height="30" width="40" /></a>
 </p>
+<br />
 
 <hr />
 
