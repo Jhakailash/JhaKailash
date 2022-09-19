@@ -2,6 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm kailash jha</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jhakailash&label=Profile%20views&color=0e75b6&style=flat" alt="jhakailash" /> </p>
 <h3 align="center">A passionate Full Stack Developer is in making</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -14,17 +15,20 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhakailash&label=Profile%20views&color=0e75b6&style=flat" alt="jhakailash" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@kailash66380956" target="blank"><img src="https://img.shields.io/twitter/follow/@kailash66380956?logo=twitter&style=for-the-badge" alt="@kailash66380956" /></a> </p>
+
+
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BsG9ZxBvAco-8TkAEnkHF2JtFLI7SNT_/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1BsG9ZxBvAco-8TkAEnkHF2JtFLI7SNT_/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://jhakailash.github.io/)
+- 👨‍💻 Know more about me [Portfolio](https://jhakailash.github.io/)
+
+- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/JhaKailash?tab=repositories)**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
