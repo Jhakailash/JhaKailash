@@ -132,7 +132,10 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Jhakailash/github-readme-activity-graph"><img alt="JhaKailash Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JhaKailash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="center">
+<a href="https://github.com/jhakailash"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhakailash&theme=dracula" />
+</span></a> </p>
 
 <br/>
 <br/>
