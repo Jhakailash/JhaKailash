@@ -29,7 +29,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/JhaKailash?tab=repositories)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, NodeJS & DSA**
 
 - 📫 How to reach me **kailashjhaji7@gmail.com**
 
